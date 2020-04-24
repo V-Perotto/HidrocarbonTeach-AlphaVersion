@@ -1,0 +1,55 @@
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe.config
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\bin\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.csprojAssemblyReference.cache
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.frmHidrocarbonetos.resources
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.Properties.Resources.resources
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.GenerateResource.cache
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.CoreCompileInputs.cache
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\QuimicaOrganica\QuimicaOrganica\obj\Debug\QuimicaOrganica.frm_Lista.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csprojAssemblyReference.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.frmHidrocarbonetos.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.frm_Lista.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.Properties.Resources.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.GenerateResource.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.CoreCompileInputs.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe.config
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.pdb
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.frmHidrocarbonetos.resources
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.frm_Lista.resources
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.exe
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\obj\Debug\QuimicaOrganica.pdb
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe.config
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe
+C:\Users\Aluno\Desktop\Hidrocarbonetos\Hidrocarbon Teach\QuimicaOrganica\bin\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe.config
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\bin\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.csprojAssemblyReference.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.frmHidrocarbonetos.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.frm_Lista.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.Properties.Resources.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.GenerateResource.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.CoreCompileInputs.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha\QuimicaOrganica\obj\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe.config
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\bin\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\bin\Debug\QuimicaOrganica.pdb
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.csprojAssemblyReference.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.frmHidrocarbonetos.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.frm_Lista.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.Properties.Resources.resources
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.GenerateResource.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.csproj.CoreCompileInputs.cache
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.exe
+D:\Hidrocarbonetos\Hidrocarbon Teach - v1.0.1-alpha - Copia\QuimicaOrganica\obj\Debug\QuimicaOrganica.pdb
